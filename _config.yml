@@ -59,4 +59,4 @@ address:
 # Build settings
 markdown: kramdown
 permalink: pretty
-gems: ['jekyll-twitter-plugin']
+gems: jekyll-twitter-plugin
